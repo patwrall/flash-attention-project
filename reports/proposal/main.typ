@@ -1,4 +1,4 @@
-import "@preview/charged-ieee:0.1.4": ieee
+#import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
   title: [A Simplified Implementation of the FlashAttention Forward Pass in CUDA],
@@ -24,28 +24,15 @@ import "@preview/charged-ieee:0.1.4": ieee
 
 = Background & Literature Review
 
-== Financial Models
-
-== Monte Carlo Methods
-
-== High-Performance Computing with CUDA
-
 = Project Scope & Deliverables
 
-== In-Scope Features (MoSCoW Method)
+== In-Scope Features
 
 == Out-of-Scope
 
 == Deliverable
 
 = Technical Methodology
-== Phase 1:
-
-== Phase 2:
-
-== Phase 3:
-
-== Phase 4:
 
 = Project Timeline & Milestones
 
